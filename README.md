@@ -6,6 +6,9 @@
 * Install the VSCode <a href="https://code.visualstudio.com/" target="_blank">Download</a>
 * Install Git from <a href="https://git-scm.com/downloads" target="_blank">Download</a>
 
+## Contributors
+        Gao
+
 ## Essential Parts with Git
 
 >### checkout the commands with the <a href="https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html" target="_blank">Basic Command</a>
